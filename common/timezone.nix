@@ -1,0 +1,3 @@
+{
+  time.timezone = "Europe/Moscow";
+}
